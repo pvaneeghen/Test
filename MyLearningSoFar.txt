@@ -31,5 +31,6 @@ use: git checkout -b <ownName>
 for some reason the ToDoList.txt (old version) and MyLearningSoFar.txt - even though they are named differently - are linked and 
 need to be resolved before the branch and master can be merged together; seems strange to me, but oh well
 
-Also there are two active branches, does this mean I can at all times go back to these "saved" states??? Let's try
-when you push a commit to git then it gives a summary of how many files changed + if lines were deleted/added - cool
+Also there are two active branches, does this mean I can at all times go back to these "saved" states??? Let's try - makes sense
+actually as all committed states are available (palm to face)
+when you commit then it gives a summary of how many files changed + if lines were deleted/added - cool
