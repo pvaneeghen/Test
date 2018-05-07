@@ -22,3 +22,5 @@ strange that git sees a change in file name as a deletion of the old and a creat
 When wanting to push something to github DON'T FORGET to make a commit as otherwise it won't work/upload the updated files!!!
 
 "git push" will just simply push everything to the connected repositories and "git push origin master" will push the specified master
+
+:qa! <Enter> allows you to exit a "commit --amend"
