@@ -24,3 +24,11 @@ When wanting to push something to github DON'T FORGET to make a commit as otherw
 "git push" will just simply push everything to the connected repositories and "git push origin master" will push the specified master
 
 :qa! <Enter> allows you to exit a "commit --amend" or return to the "main" screen
+
+So if you quickly want to check out an older version use: git checkout <the #tag>, if you want to save this point and use it later
+use: git checkout -b <ownName>
+
+for some reason the ToDoList.txt (old version) and MyLearningSoFar.txt - even though they are named differently - are linked and 
+need to be resolved before the branch and master can be merged together
+
+Also there are two active branches, does this mean I can at all times go back to these "saved" states??? Let's try
