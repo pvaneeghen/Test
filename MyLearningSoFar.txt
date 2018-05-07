@@ -16,3 +16,5 @@ pressing Q for some reason helped, was I somehow in a sub program of git and pre
 or did it quit the endless loop of logs it was creating, something to remember for the future - when git seems "stuck" try pressing the Q button.
 
 why is there a kdg file in my local repository though?
+
+strange that git sees a change in file name as a deletion of the old and a creation of the new file rather than just a modification of that file
