@@ -33,4 +33,10 @@ need to be resolved before the branch and master can be merged together; seems s
 
 Also there are two active branches, does this mean I can at all times go back to these "saved" states??? Let's try - makes sense
 actually as all committed states are available (palm to face)
+
 when you commit then it gives a summary of how many files changed + if lines were deleted/added - cool
+
+git pull will fetch and merge the differences in the documents being pulled - plus gives a summary of what happened
+
+fetch supposedly only grabs them from the remote repository not sure where they are put (downloaded already somewhere [if so where I don't know]
+ or in the copy/paste command [if so not sure how to paste them so I can check for any discrepancies])?
