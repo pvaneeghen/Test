@@ -23,4 +23,4 @@ When wanting to push something to github DON'T FORGET to make a commit as otherw
 
 "git push" will just simply push everything to the connected repositories and "git push origin master" will push the specified master
 
-:qa! <Enter> allows you to exit a "commit --amend"
+:qa! <Enter> allows you to exit a "commit --amend" or return to the "main" screen
