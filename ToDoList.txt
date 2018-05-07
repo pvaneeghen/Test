@@ -1,4 +1,6 @@
 Let's see if this line can be pushed to github :)
 
-This seems to be working, however the second commit disappeared :( perhaps the reason is because I updated the ToDoList.txt and github updated the same file too and dropped
-the second commit because of it?
+This seems to be working, however the other commits disappear :( perhaps the reason is because I'm only updating the ToDoList.txt and github updates the same file too and
+hence drops the commits because of it?
+
+or perhaps because I am doing something wrong, let's see by adding a new file to be committed to my github playground. fingers crossed it goes well
