@@ -1,1 +1,4 @@
 Let's see if this line can be pushed to github :)
+
+This seems to be working, however the second commit disappeared :( perhaps the reason is because I updated the ToDoList.txt and github updated the same file too and dropped
+the second commit because of it?
