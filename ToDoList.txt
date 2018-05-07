@@ -3,4 +3,16 @@ Let's see if this line can be pushed to github :)
 This seems to be working, however the other commits disappear :( perhaps the reason is because I'm only updating the ToDoList.txt and github updates the same file too and
 hence drops the commits because of it?
 
-or perhaps because I am doing something wrong, let's see by adding a new file to be committed to my github playground. fingers crossed it goes well
+or perhaps because I am doing something wrong, let's see by adding a new file to be committed to my github playground. fingers crossed it goes well.
+
+The readme.md stays on the first commit, as expected, but the ToDoList.txt as well as the testFile.txt change to fifth commit. After some digging around on the github page
+I finally understand what is happening. On the "homepage" of my github page it shows all the files and the last commit of each file. Digging into the "Insight" tab I am
+able to find the other commits and what exactly has changed, phew :)
+
+Although, now for some reason it seems like my git bash has "crashed" after I checked the logs (it looped the log request a couple of times) and I can't seem to continue and
+add "code requests" to bash - this happened last week too :(
+
+pressing Q for some reason helped, was I somehow in a sub program of git and pressing Q quit it and returned me to the normal git bash again?
+or did it quit the endless loop of logs it was creating, something to remember for the future - when git seems "stuck" try pressing the Q button.
+
+why is there a kdg file in my local repository though?
