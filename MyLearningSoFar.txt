@@ -17,4 +17,6 @@ or did it quit the endless loop of logs it was creating, something to remember f
 
 why is there a kdg file in my local repository though?
 
-strange that git sees a change in file name as a deletion of the old and a creation of the new file rather than just a modification of that file
+strange that git sees a change in file name as a deletion of the old and a creation of the new file rather than just a renaming of that file. OK only after adding it to git does it see it as a renamed file :)
+
+When wanting to push something to github DON'T FORGET to make a commit as otherwise it won't work/upload the updated files!!!
