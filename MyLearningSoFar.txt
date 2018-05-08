@@ -43,3 +43,6 @@ fetch supposedly only grabs them from the remote repository not sure where they 
 
 double checked and it seems like you cannot pull a specific file from the remote repo, you can only pull the whole repo - that's a pity
 as in big projects I can only imagine pulling the whole repo everytime is time consuming
+
+only push files if it is a bare repo, if not then pull the files to avoid confusion when it is a working directory - so I should pull
+my local files to the working directory everyone relies upon?
