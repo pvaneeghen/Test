@@ -49,3 +49,5 @@ my local files to the working directory everyone relies upon?
 
 Does git push still work???
 yes but for some reason git wanted me to pull the remote repo before I could push the files to the repo - why???
+
+Let's see what "git add -p" does
