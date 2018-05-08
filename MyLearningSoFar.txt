@@ -42,3 +42,4 @@ fetch supposedly only grabs them from the remote repository not sure where they 
  or in the copy/paste command [if so not sure how to paste them so I can check for any discrepancies])?
 
 double checked and it seems like you cannot pull a specific file from the remote repo, you can only pull the whole repo - that's a pity
+as in big projects I can only imagine pulling the whole repo everytime is time consuming
