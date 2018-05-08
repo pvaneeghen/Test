@@ -40,3 +40,5 @@ git pull will fetch and merge the differences in the documents being pulled - pl
 
 fetch supposedly only grabs them from the remote repository not sure where they are put (downloaded already somewhere [if so where I don't know]
  or in the copy/paste command [if so not sure how to paste them so I can check for any discrepancies])?
+
+double checked and it seems like you cannot pull a specific file from the remote repo, you can only pull the whole repo - that's a pity
