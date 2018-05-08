@@ -46,3 +46,5 @@ as in big projects I can only imagine pulling the whole repo everytime is time c
 
 only push files if it is a bare repo, if not then pull the files to avoid confusion when it is a working directory - so I should pull
 my local files to the working directory everyone relies upon?
+
+Does git push still work???
