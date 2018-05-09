@@ -30,6 +30,7 @@ use: git checkout -b <ownName>
 
 for some reason the ToDoList.txt (old version) and MyLearningSoFar.txt - even though they are named differently - are linked and 
 need to be resolved before the branch and master can be merged together; seems strange to me, but oh well
+- reason for this is because their ID is saved by a hash (string of numbers/letters) rather than their actual filename and hence git sees it as two the same
 
 Also there are two active branches, does this mean I can at all times go back to these "saved" states??? Let's try - makes sense
 actually as all committed states are available (palm to face)
